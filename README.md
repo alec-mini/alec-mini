@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Pat likes Pizza
-Soups is Good
+Pat likes Pizza, 
+Soups is Good, 
 Change my Mind
